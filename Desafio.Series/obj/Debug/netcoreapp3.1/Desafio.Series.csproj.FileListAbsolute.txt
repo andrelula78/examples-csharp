@@ -1,0 +1,13 @@
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\obj\Debug\netcoreapp3.1\Desafio.Series.csprojAssemblyReference.cache
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\obj\Debug\netcoreapp3.1\Desafio.Series.AssemblyInfoInputs.cache
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\obj\Debug\netcoreapp3.1\Desafio.Series.AssemblyInfo.cs
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\obj\Debug\netcoreapp3.1\Desafio.Series.csproj.CoreCompileInputs.cache
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\bin\Debug\netcoreapp3.1\Desafio.Series.exe
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\bin\Debug\netcoreapp3.1\Desafio.Series.deps.json
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\bin\Debug\netcoreapp3.1\Desafio.Series.runtimeconfig.json
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\bin\Debug\netcoreapp3.1\Desafio.Series.runtimeconfig.dev.json
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\bin\Debug\netcoreapp3.1\Desafio.Series.dll
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\bin\Debug\netcoreapp3.1\Desafio.Series.pdb
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\obj\Debug\netcoreapp3.1\Desafio.Series.dll
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\obj\Debug\netcoreapp3.1\Desafio.Series.pdb
+C:\CURSOJS\CursoDI\curso-cSharp\examples-csharp\Desafio.Series\obj\Debug\netcoreapp3.1\Desafio.Series.genruntimeconfig.cache

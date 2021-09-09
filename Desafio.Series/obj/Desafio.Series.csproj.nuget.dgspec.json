@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CURSOJS\\CursoDI\\curso-cSharp\\examples-csharp\\Revisao\\Revisao.csproj": {}
+    "C:\\CURSOJS\\CursoDI\\curso-cSharp\\examples-csharp\\Desafio.Series\\Desafio.Series.csproj": {}
   },
   "projects": {
-    "C:\\CURSOJS\\CursoDI\\curso-cSharp\\examples-csharp\\Revisao\\Revisao.csproj": {
+    "C:\\CURSOJS\\CursoDI\\curso-cSharp\\examples-csharp\\Desafio.Series\\Desafio.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CURSOJS\\CursoDI\\curso-cSharp\\examples-csharp\\Revisao\\Revisao.csproj",
-        "projectName": "Revisao",
-        "projectPath": "C:\\CURSOJS\\CursoDI\\curso-cSharp\\examples-csharp\\Revisao\\Revisao.csproj",
+        "projectUniqueName": "C:\\CURSOJS\\CursoDI\\curso-cSharp\\examples-csharp\\Desafio.Series\\Desafio.Series.csproj",
+        "projectName": "Desafio.Series",
+        "projectPath": "C:\\CURSOJS\\CursoDI\\curso-cSharp\\examples-csharp\\Desafio.Series\\Desafio.Series.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\CURSOJS\\CursoDI\\curso-cSharp\\examples-csharp\\Revisao\\obj\\",
+        "outputPath": "C:\\CURSOJS\\CursoDI\\curso-cSharp\\examples-csharp\\Desafio.Series\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
